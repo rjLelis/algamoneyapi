@@ -41,7 +41,7 @@ public class Pessoa {
         this.nome = nome;
     }
 
-    public boolean isAtivo() {
+    public Boolean isAtivo() {
         return ativo;
     }
 
